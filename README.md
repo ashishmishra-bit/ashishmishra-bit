@@ -9,3 +9,5 @@ This is Ashish Kumar Mishra. I am an earnest techie with keen interest in every 
 - 💬 Ask me about WEB DEVELOPMENT
 - 📫 How to reach me: ashish.mishra52002@gmail.com
 - ☎ Call me: 8822161061.
+
+<img src = "https://github-readme-stats.vercel.app/api?username=ashishmishra-bit&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
