@@ -15,5 +15,5 @@ This is Ashish Kumar Mishra. I am an earnest techie with keen interest in every 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishmishra-bit&theme=tokyonight)](https://github.com/ashishmishra-bit/github-readme-stats)<br><br>
 ![Github Metrics](https://metrics.lecoq.io/ashishmishra-bit)<br><br>
 ![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ashishmishra-bit&theme=tokyonight)<br><br>
-
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=ashishmishra-bit)<br><br>
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ashishmishra-bit.ashishmishra-bit)
