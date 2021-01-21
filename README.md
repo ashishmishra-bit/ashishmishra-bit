@@ -10,4 +10,4 @@ This is Ashish Kumar Mishra. I am an earnest techie with keen interest in every 
 - 📫 How to reach me: ashish.mishra52002@gmail.com
 - ☎ Call me: 8822161061
 
-
+![Ashish's Github stats](https://github-readme-stats.vercel.app/api?username=ashishmishra-bit&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)<br>  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishmishra-bit&theme=tokyonight)](https://github.com/ashishmishra-bit/github-readme-stats)<br>  ![Github Metrics](https://metrics.lecoq.io/ashishmishra-bit)  ![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ashishmishra-bit&theme=tokyonight)  ![Github Trophies](https://github-profile-trophy.vercel.app/?username=ashishmishra-bit)  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ashishmishra-bit.ashishmishra-bit)
