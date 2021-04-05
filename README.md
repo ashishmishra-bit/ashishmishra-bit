@@ -7,11 +7,7 @@ This is Ashish Kumar Mishra. I am an earnest techie with keen interest in every 
 &nbsp; <a href="https://www.instagram.com/a_s_h_i_s_h_mishra/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/ashish-kumar-mishra-91366b193/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:ashish.mishra52002@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-&nbsp;
-    
-    <i class="fa fa-cc-visa" aria-hidden="true"></i>
-
-</p>
+&nbsp;</p>
 
 
 - 🔭 I’m currently working as freelance WEB DEVELOPER & also member of GFG-KIIT
