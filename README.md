@@ -37,6 +37,15 @@ This is Ashish Kumar Mishra. I am an earnest techie with keen interest in every 
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 </div>
 
+
+![Ashish's Github stats](https://github-readme-stats.vercel.app/api?username=ashishmishra-bit&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishmishra-bit&theme=tokyonight)](https://github.com/ashishmishra-bit/github-readme-stats)<br> <br>
+![Github Metrics](https://metrics.lecoq.io/ashishmishra-bit)<br><br>
+![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ashishmishra-bit&theme=tokyonight)
+<br><br>![Github Trophies](https://github-profile-trophy.vercel.app/?username=ashishmishra-bit) <br><br>
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=ashishmishra-bit.ashishmishra-bit)
+
+
 ## 📌 My Wakatime Stats
 <!--START_SECTION:waka-->
 ```text
@@ -50,9 +59,3 @@ C++        41 mins         ▒░░░░░░░░░░░░░░░░�
   
 ### Show some ❤️ by starring some of the repositories!
 
-![Ashish's Github stats](https://github-readme-stats.vercel.app/api?username=ashishmishra-bit&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishmishra-bit&theme=tokyonight)](https://github.com/ashishmishra-bit/github-readme-stats)<br> <br>
-![Github Metrics](https://metrics.lecoq.io/ashishmishra-bit)<br><br>
-![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ashishmishra-bit&theme=tokyonight)
-<br><br>![Github Trophies](https://github-profile-trophy.vercel.app/?username=ashishmishra-bit) <br><br>
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=ashishmishra-bit.ashishmishra-bit)
