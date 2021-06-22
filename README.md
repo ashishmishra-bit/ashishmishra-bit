@@ -37,6 +37,19 @@ This is Ashish Kumar Mishra. I am an earnest techie with keen interest in every 
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 </div>
 
+## 📌 My Wakatime Stats
+<!--START_SECTION:waka-->
+```text
+Other      54 hrs 36 mins  █████████████████████▒░░░   85.28 % 
+Python     4 hrs 59 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+C          2 hrs 20 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Markdown   54 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+C++        41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+```
+<!--END_SECTION:waka-->
+  
+### Show some ❤️ by starring some of the repositories!
+
 ![Ashish's Github stats](https://github-readme-stats.vercel.app/api?username=ashishmishra-bit&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishmishra-bit&theme=tokyonight)](https://github.com/ashishmishra-bit/github-readme-stats)<br> <br>
 ![Github Metrics](https://metrics.lecoq.io/ashishmishra-bit)<br><br>
