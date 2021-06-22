@@ -17,7 +17,7 @@ This is Ashish Kumar Mishra. I am an earnest techie with keen interest in every 
 - 📫 How to reach me: ashish.mishra52002@gmail.com
 - ☎ Call me: +91-8822161061
 
-![](https://activity-graph.herokuapp.com/graph?username=ashishmishra-bit&theme=dracula)
+![Uzair's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ashishmishra-bit&theme=react-dark&hide_border=true&area=true)
 
 
 <div class="row">
