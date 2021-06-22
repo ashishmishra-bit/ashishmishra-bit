@@ -17,6 +17,9 @@ This is Ashish Kumar Mishra. I am an earnest techie with keen interest in every 
 - 📫 How to reach me: ashish.mishra52002@gmail.com
 - ☎ Call me: +91-8822161061
 
+![](https://activity-graph.herokuapp.com/graph?username=ashishmishra-bit&theme=dracula)
+
+<img height=200 width=350 src="avatar.png">
 
 <div class="row">
     <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
