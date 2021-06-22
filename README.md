@@ -17,6 +17,15 @@ This is Ashish Kumar Mishra. I am an earnest techie with keen interest in every 
 - 📫 How to reach me: ashish.mishra52002@gmail.com
 - ☎ Call me: +91-8822161061
 
+<a href="https://github.com/ashishmishra-bit/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/ashishmishra-bit/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/ashishmishra-bit/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/ashishmishra-bit/awesome-github-profile-readme" alt="Forks Badge"/></a>
+<a href="https://github.com/ashishmishra-bit/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/ashishmishra-bit/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/ashishmishra-bit/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/ashishmishra-bit/awesome-github-profile-readme" alt="Issues Badge"/></a>
+<a href="https://github.com/ashishmishra-bit/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/ashishmishra-bit/awesome-github-profile-readme?color=2b9348"></a>
+<a href="https://github.com/ashishmishra-bit/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/ashishmishra-bit/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=ashishmishra-bit.ashishmishra-bit)
+
+
 ![](https://activity-graph.herokuapp.com/graph?username=ashishmishra-bit&theme=react-dark&hide_border=true&area=true)
 
 
@@ -43,7 +52,7 @@ This is Ashish Kumar Mishra. I am an earnest techie with keen interest in every 
 ![Github Metrics](https://metrics.lecoq.io/ashishmishra-bit)<br><br>
 ![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ashishmishra-bit&theme=tokyonight)
 <br><br>![Github Trophies](https://github-profile-trophy.vercel.app/?username=ashishmishra-bit) <br><br>
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=ashishmishra-bit.ashishmishra-bit)
+
 
 
 ## 📌 My Wakatime Stats
