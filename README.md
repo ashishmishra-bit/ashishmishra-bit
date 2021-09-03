@@ -18,7 +18,7 @@ This is Ashish Kumar Mishra. I am an earnest techie with keen interest in every 
 - ☎ Call me: +91-8822161061
 
  Visitor count<br>
- <img src="https://profile-counter.glitch.me/ashishmishra-bit/count.svg" />
+ <img src="https://profile-counter.glitch.me/ashishmishra-bit/count.svg" /><br>
 <a href="https://github.com/ashishmishra-bit/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/ashishmishra-bit/awesome-github-profile-readme" alt="Stars Badge"/></a>
 <a href="https://github.com/ashishmishra-bit/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/ashishmishra-bit/awesome-github-profile-readme" alt="Forks Badge"/></a>
 <a href="https://github.com/ashishmishra-bit/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/ashishmishra-bit/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
