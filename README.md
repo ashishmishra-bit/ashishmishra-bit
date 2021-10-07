@@ -9,6 +9,7 @@ This is Ashish Kumar Mishra. I am an earnest techie with keen interest in every 
 &nbsp; <a href="mailto:ashish.mishra52002@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 &nbsp;</p>
 
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
 - 🔭 I’m currently working as freelance WEB DEVELOPER & also member of GFG-KIIT
 - 🌱 I’m currently learning Android Development using JAVA and FLUTTER
