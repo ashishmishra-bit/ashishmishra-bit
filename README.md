@@ -35,6 +35,7 @@ This is Ashish Kumar Mishra. I am an earnest techie with keen interest in every 
 ![dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white)
 ![c++](https://img.shields.io/badge/C++-28B6F6?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![c](https://img.shields.io/badge/-28B6F6?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&)
 
 ### Front-End Development
 
