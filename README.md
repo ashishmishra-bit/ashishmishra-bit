@@ -2,7 +2,7 @@
 <img width="100%" height = "400px" src="https://c4.wallpaperflare.com/wallpaper/688/1001/281/coding-developer-quotes-technology-wallpaper-preview.jpg" alt="cover" />
 </div>
 
-### Hi there 👋
+## Hi there 👋
 
 This is Ashish Kumar Mishra. I am an earnest techie with keen interest in every new updates that come up everyday. I love being hardworking and dedicated to whatever I take up as a task. Web development attracts me the most. And I also have some basic idea in android. Apart from that I also have knowledge on SEO.The last one year has been an amazing experience. The journey of my BTech years has started with these new experiences and I felt a keen interest growing in me. Getting to learn these things have always been worth it. But this is just the beginning. I am always brushing up my skills more to attain perfection. Looking forward to gather more knowledge and being more accurate in my field.
 
@@ -14,6 +14,15 @@ This is Ashish Kumar Mishra. I am an earnest techie with keen interest in every 
 - 💬 Ask me about WEB DEVELOPMENT & ANDROID DEVELOPMENT
 - 📫 How to reach me: ashish.mishra52002@gmail.com
 - ☎ Call me: +91-8822161061
+
+
+## 💻 My Work Space
+
+[![OS](https://img.shields.io/badge/Linux-%230078D6.svg?&style=for-the-badge&logo=linux&)]
+[![Processor](https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white)]
+[![RAM](https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white)]
+[![gpu](https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white)]
+
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
